@@ -1,0 +1,22 @@
+body {
+	background-color: orange;
+	font-size: 20px;
+	/*background-image: url("file:///Users/govermedia/Desktop/GravityFalls.jpg");*/
+}
+
+h1 {
+	color: green;
+}
+
+h2 {
+	color: green;
+	font-size: 2em;
+}
+
+.image-circle {
+	border-radius: 50%
+}
+
+p {
+	font-family: fantasy;
+}
