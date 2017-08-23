@@ -17,6 +17,13 @@ h2 {
 	border-radius: 40%
 }
 
+.start-sentence {
+    font-size: 2em;
+}
+.end_article {
+    color: aqua;
+}
+
 p {
 	font-family: fantasy;
 }
