@@ -28,6 +28,17 @@ p {
     color: black;
 }
 
+#float_feature {
+	float: right;
+	width: 40%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#text_about {
+	margin-left: 10px;
+}
+
 #bill_png {
 	position: fixed;
 	bottom: 100px;
